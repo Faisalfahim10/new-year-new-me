@@ -1,0 +1,128 @@
+.banner {
+  background-image: url(../images/banner/banner3.png);
+  height: 808px;
+}
+.banner-header {
+  padding-top: 180px;
+  padding-left: 900px;
+  font-size: 45px;
+  font-weight: 700;
+  color: white;
+}
+.banner-description {
+  padding-left: 890px;
+  font-weight: 400;
+  font-size: 16px;
+  color: white;
+  font-family: "Work Sans";
+}
+.button-primary {
+  margin-top: 20px;
+  padding: 20px;
+  position: relative;
+  left: 1120px;
+  color: #005fac;
+}
+/* About my failures */
+.About-me {
+  margin-top: 140px;
+  background-image: url(/images/bulb.avif);
+  background-repeat: no-repeat;
+  text-align: right;
+  padding-top: 180px;
+  padding-right: 180px;
+  margin-left: 50px;
+  padding-top: 35px;
+}
+.failures-title {
+  padding-right: 180px;
+  font-weight: 700;
+  font-size: 40px;
+}
+.failures-description {
+  font-weight: 400;
+  font-size: 18px;
+  color: #444343;
+  text-align: justify;
+  padding-left: 700px;
+}
+.failures-list {
+  list-style-type: none;
+  color: #444343;
+  text-align: justify;
+  padding-left: 710px;
+}
+/* self-improvement */
+.self-improvement {
+  background-image:url(/images/improvement.jpg);
+  background-repeat: no-repeat;
+  height: 600px;
+  margin-top: 100px; 
+  margin-left: 40px; 
+}
+.self-improvement-title{
+  padding-left: 600px;
+  font-weight: 700;
+}
+.self-improvement-list{
+  padding-left: 580px ;
+  text-align: justify;
+  padding-top: 20px;
+}
+  /* My plans */
+  .my-plans{
+  padding-left: 615px;
+  font-weight: 900;
+  }
+  .my-plans-images{
+  display: flex;
+  justify-content: space-evenly;
+  }
+  .my-plans-title{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    padding-right: 20px;
+  }
+.my-plans-description{
+  display: flex;
+  font-size: 18px;
+  justify-content: space-evenly;
+  margin-left: 45px;
+}
+/* positive mindset */
+.positive-mindset{
+  background-image: url(/images/gradient1.png),url(/images/watch.png);
+  background-blend-mode: normal;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 1100px;
+  margin-left: 90px;
+}
+.positive-mindset-ti{
+  margin-left: 130px;
+  padding-top: 35px;
+  color: cornsilk;
+  font-size: 30px;
+  font-weight: 700;
+}
+.call-now-button{
+  padding: 20px;
+  background-color:white;
+  color: #005fac;
+  border: none;
+}
+/* Future */
+.future{
+display: flex;
+background-color: black;
+color: white;
+margin-top: 130px;
+padding-left: 60px;
+justify-content: space-evenly;
+padding-top: 30px;
+}
+.last-button{
+margin-top: 20px;
+}
+

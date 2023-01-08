@@ -26,7 +26,7 @@
 /* About my failures */
 .About-me {
   margin-top: 140px;
-  background-image: url(/images/bulb.avif);
+  background-image: url(../images/bulb.avif);
   background-repeat: no-repeat;
   text-align: right;
   padding-top: 180px;
@@ -54,7 +54,7 @@
 }
 /* self-improvement */
 .self-improvement {
-  background-image:url(/images/improvement.jpg);
+  background-image:url(../images/improvement.jpg);
   background-repeat: no-repeat;
   height: 600px;
   margin-top: 100px; 
@@ -92,7 +92,7 @@
 }
 /* positive mindset */
 .positive-mindset{
-  background-image: url(/images/gradient1.png),url(/images/watch.png);
+  background-image: url(../images/gradient3.png),url(../images/watch.png);
   background-blend-mode: normal;
   background-repeat: no-repeat;
   height: 300px;
